@@ -1,3 +1,5 @@
 # atkmh.github.io
 
 This work is published at https://atkmh.github.io
+I know how to get to the repo in github, but I forgot how to get to the published pages
+Much more simple than I remembered
